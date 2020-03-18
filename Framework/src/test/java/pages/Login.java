@@ -6,6 +6,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class Login {
 
+	//new line
 	WebDriver driver;
 	
 	@FindBy(id = "j_usename") WebElement user;
